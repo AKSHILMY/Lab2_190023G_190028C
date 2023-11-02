@@ -26,11 +26,11 @@ To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AKSHILMY/Lab2_190023G_190028C
     ```
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd Lab2_190023G_190028C/src
    ```
 3. Compile and run the Java code:
    ```bash
