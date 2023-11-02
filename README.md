@@ -47,4 +47,9 @@ To get started with the project, follow these steps:
 - Compile the source code as mentioned in the "Getting Started" section.
 - Run the program and observe the simulation of the Senate bus system.
 
+## Sample output
+![Blank 4 Grids Collage](https://github.com/imshaaz21/Senate-Bus-Concurrent-Program/assets/77115237/fb3eec89-788b-49ac-a667-9f837cd32515)
+
+
+
 **Note: The program will run indefinitely.**
